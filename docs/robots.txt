@@ -1,0 +1,10 @@
+User-agent: *
+Disallow: /correo/
+Disallow: /alojamiento/oc-admin/
+Disallow: /alojamiento/oc-content/
+Disallow: /alojamiento/oc-includes/
+Disallow: /politica-de-cookies.html
+
+
+
+Sitemap: https://turismosalta.mdq.com.ar/sitemap.xml
